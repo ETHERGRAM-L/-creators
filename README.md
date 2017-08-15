@@ -67,5 +67,4 @@ hello EG!
 
 演習が完了したら、シートのステータスを変更してください。
 「質問」欄にはわからなかったことや質問があれば必ず記入すること。
-[https://docs.google.com/spreadsheets/d/1fN3xj3HyJPT12LFYlahXoyKjLM02rXdcXN6REvqHSMo/edit#gid=702725377](https://docs.google.com/spreadsheets/d/1fN3xj3HyJPT12LFYlahXoyKjLM02rXdcXN6REvqHSMo/edit#gid=702725377)
 
